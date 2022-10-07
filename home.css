@@ -14,7 +14,7 @@
 }
 .a{
     
-    margin-left: 280px;
+    margin-left: 100px;
     margin-top: 60px;
 }
 .a h1{
@@ -30,7 +30,7 @@
 nav{
 
     margin-top: 65px;
-    margin-left: 1000px;
+    margin-left: 600px;
 }
 nav a{
     font-size: 14px;
@@ -45,7 +45,7 @@ nav a{
    width: 390px;
    height: 185px;
    margin-top:130px;
-   margin-left: 280px;
+   margin-left: 100px;
    
 }
 .w p{
@@ -67,13 +67,13 @@ nav a{
     width: 700px;
     height: 480px;
     margin-top: 100px;
-    margin-left: 280px;
+    margin-left: 100px;
 }
 .k2{
-    background-color: white;
-    width: 500px;
+    background-color:white;
+    width: 480px;
     height: 420px;
-    margin-left: 850px;
+    margin-left: 650px;
     margin-top: -300px;
 }
 .k2 h2{
@@ -99,13 +99,13 @@ nav a{
 float: left;
 font-size: 30px;
 margin-top: 50px;
-margin-left: 280px;
+margin-left: 100px;
 font-family: sans-serif;
 color: rgb(53, 52, 52);
 }
 .vv button{
     float: right;
-    margin-right: 330px;
+    margin-right: 170px;
     margin-top: 55px;
     width: 150px;
     height: 50px;
@@ -118,22 +118,22 @@ color: rgb(53, 52, 52);
     display: flex;
     padding-top: 40px;
     height: 100px;
-    margin-right: 400px;
+    margin-right: 380px;
     width: 100%;
 }
 .o1{
     margin-right: 30px;
-    margin-left: 280px;
+    margin-left: 100px;
     background-image: url('image/image-deep-earth.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 350px;
+    width: 250px;
     height: 400px;
 }
 .o2{
     margin-right: 30px;
     background-image: url('image/image-night-arcade.jpg');
-    width: 350px;
+    width: 250px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -141,7 +141,7 @@ color: rgb(53, 52, 52);
 .o3{
     margin-right: 30px;
     background-image: url('image/image-soccer-team.jpg');
-    width: 350px;
+    width: 250px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -151,7 +151,7 @@ color: rgb(53, 52, 52);
     background-image: url('image/image-grid.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 180px;
+    width: 140px;
     height: 400px;
 }
 .oo p{
@@ -165,14 +165,14 @@ color: rgb(53, 52, 52);
     display: flex;
     padding-top: 380px;
     height: 100px;
-    margin-right: 400px;
+    margin-right: 380px;
     width: 100%;
 }
 .i1{
     margin-right: 30px;
-    margin-left: 280px;
+    margin-left: 100px;
     background-image: url('image/image-from-above.jpg');
-    width: 350px;
+    width: 250px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,7 +180,7 @@ color: rgb(53, 52, 52);
 .i2{
     margin-right: 30px;
     background-image: url('image/image-pocket-borealis.jpg');
-    width: 350px;
+    width: 250px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -188,7 +188,7 @@ color: rgb(53, 52, 52);
 .i3{
     margin-right: 30px;
     background-image: url('image/image-curiosity.jpg');
-    width: 350px;
+    width: 250px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,7 +196,7 @@ color: rgb(53, 52, 52);
 .i4{
     padding-right: 100px;
     background-image: url('image/image-fisheye.jpg');
-    width: 180px;
+    width: 140px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -218,12 +218,13 @@ color: rgb(53, 52, 52);
     
 }
 .q1{
+
     margin-top: 50px;
-    margin-left: 280px;
+    margin-left: 100px;
 }
 .q2{
     margin-top: 50px;
-    margin-left: 1090px;
+    margin-left: 755px;
 }
 .q3{
     margin-top: 50px;
@@ -246,7 +247,7 @@ color: rgb(53, 52, 52);
 }
 .s1{
     margin-top: 35px;
-    margin-left: 280px;
+    margin-left: 100px;
 }
 .s2{
     margin-top: 35px;
@@ -266,7 +267,7 @@ color: rgb(53, 52, 52);
 }
 .s6{
     margin-top: 35px;
-    margin-left: 790px;
+    margin-left: 430px;
 }
 .s6{
     color: rgb(240, 231, 231);
